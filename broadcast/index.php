@@ -82,7 +82,7 @@ $conn->close();
 					<span class="label-input100">Services</span>
 					<div> 
 						<select class="selection-2" name="service" id="service">
-							<option>Choose Services</option>
+							<option>Select Service</option>
 							<option>عرض عيد الأضحى</option>
 							<option>باقات إضافية مجانا</option>
 							<option>Firmware Upgrade</option>
