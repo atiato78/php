@@ -85,7 +85,7 @@ $conn->close();
 							<option>Choose Services</option>
 							<option>عرض عيد الأضحى</option>
 							<option>باقات إضافية مجانا</option>
-							<option>Firmeware Upgrade</option>
+							<option>Firmware Upgrade</option>
 							<option>New Offer!</option>
 						</select>
 					</div>
@@ -176,7 +176,7 @@ $conn->close();
 							{
 									"to": "'.$arr[$r].'",
 									"title": service,
-									"body": service,
+									"body": msg,
 									"badge":2,
 									"sound":"default",
 									"data": { "message": msg}
